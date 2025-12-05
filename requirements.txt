@@ -1,0 +1,7 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+lightgbm # Или другая ML-модель
+ta # Technical Analysis library для Bollinger, RSI, MACD
