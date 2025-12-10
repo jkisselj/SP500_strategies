@@ -1,0 +1,11 @@
+Fold,Top_10_Features
+1,"['daily_return_lag1', 'daily_return_lag5', 'volatility_20d', 'rsi', 'macd_diff', 'macd_signal', 'macd', 'bollinger_lband', 'bollinger_hband', 'bollinger_mavg']"
+2,"['daily_return_lag1', 'daily_return_lag5', 'rsi', 'volatility_20d', 'macd_diff', 'macd_signal', 'macd', 'bollinger_lband', 'bollinger_hband', 'bollinger_mavg']"
+3,"['daily_return_lag1', 'daily_return_lag5', 'volatility_20d', 'rsi', 'macd_diff', 'macd_signal', 'macd', 'bollinger_hband', 'bollinger_mavg', 'bollinger_lband']"
+4,"['daily_return_lag1', 'daily_return_lag5', 'volatility_20d', 'rsi', 'macd_diff', 'macd_signal', 'macd', 'bollinger_mavg', 'bollinger_hband', 'bollinger_lband']"
+5,"['daily_return_lag5', 'daily_return_lag1', 'rsi', 'volatility_20d', 'macd_diff', 'macd_signal', 'macd', 'bollinger_hband', 'bollinger_mavg', 'bollinger_lband']"
+6,"['daily_return_lag1', 'daily_return_lag5', 'rsi', 'volatility_20d', 'macd_diff', 'macd_signal', 'macd', 'bollinger_lband', 'bollinger_mavg', 'bollinger_hband']"
+7,"['daily_return_lag1', 'rsi', 'daily_return_lag5', 'volatility_20d', 'macd_diff', 'macd_signal', 'macd', 'bollinger_lband', 'bollinger_mavg', 'bollinger_hband']"
+8,"['daily_return_lag1', 'daily_return_lag5', 'rsi', 'volatility_20d', 'macd_diff', 'macd_signal', 'macd', 'bollinger_hband', 'bollinger_lband', 'bollinger_mavg']"
+9,"['daily_return_lag5', 'daily_return_lag1', 'volatility_20d', 'rsi', 'macd_diff', 'macd_signal', 'macd', 'bollinger_hband', 'bollinger_mavg', 'bollinger_lband']"
+10,"['daily_return_lag1', 'daily_return_lag5', 'volatility_20d', 'rsi', 'macd_diff', 'macd_signal', 'macd', 'bollinger_hband', 'bollinger_lband', 'bollinger_mavg']"
