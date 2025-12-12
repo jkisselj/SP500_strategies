@@ -1,4 +1,4 @@
-# scripts/strategy.py
+
 
 import pandas as pd
 import numpy as np
@@ -16,7 +16,6 @@ REPORT_PATH = os.path.join('results', 'strategy', 'report.md')
 TEST_START_DATE_STR = '2017-01-01'
 
 # --- Вспомогательные функции ---
-
 
 
 def load_data():
@@ -37,7 +36,6 @@ def load_data():
     # 3. Загрузка бенчмарка SP500 (HistoricalPrices.csv)
     df_spx = pd.read_csv(INDEX_DATA_PATH, index_col='Date', parse_dates=['Date'])
     df_spx = df_spx.sort_index()
-
 
     df_spx.columns = df_spx.columns.str.strip() 
 
@@ -101,7 +99,6 @@ def calculate_pnl(df_strategy, df_spx):
     """
     print("-> Расчет PnL...")
     
-
     df_strategy['PnL_daily'] = df_strategy['Strategy_Weight'] * df_strategy['future_return']
     
     # Группировка дневного PnL по дате
